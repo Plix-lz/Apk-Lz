@@ -1,0 +1,48 @@
+
+{
+  "id": "ppsspp",
+  "nombre": "PPSSPP",
+  "nombre_completo": "PPSSPP - PSP Emulator",
+  "categoria": "Emuladores",
+  "plataforma": "Android",
+  "desarrollador": "PPSSPP Team",
+  "tipo": "Emulador de videojuegos",
+  "icono": "https://img.utdstc.com/icon/d26/955/d269559d885320082dc7b3571bda473c97e79d37947f15c7f6dc7f52f9bdc286:600",
+  "backdrop": "https://h-moon.ir/wp-content/uploads/2023/08/c8d1f991ae3c1511ed858a5b2eef81f6.png",
+  "imagenes": [
+    "https://play-lh.googleusercontent.com/SpOEoPlpYbQF0L3NYsbTqpOuz_KzS_flbEUOsDIo--rAcLJMMiJw4cRrXPaAJpJzl-LshfyepSeHPA1EVF6Uog=w526-h296-rw",
+    "https://img.utdstc.com/screen/801/646/8016467e2ff8847c138df6f2cec289efb66155db03a02104089af1e1f519f598:600",
+    "https://www.androidsis.com/wp-content/uploads/2014/03/convierte-tu-terminal-android-en-una-psp-2.jpg"
+  ],
+  "descripcion_corta": "Disfruta de tus juegos favoritos de PSP en tu dispositivo Android con PPSSPP, uno de los emuladores más populares de la consola portátil de Sony.",
+  "descripcion": "PPSSPP es un emulador gratuito y de código abierto que permite ejecutar videojuegos de la consola PlayStation Portable (PSP) en dispositivos Android. Ofrece gráficos mejorados, opciones de personalización y controles adaptables para disfrutar de los juegos clásicos de PSP desde tu teléfono o tableta. Según la potencia del dispositivo y la compatibilidad de cada juego, es posible aumentar la resolución interna, mejorar el filtrado de texturas y ajustar diferentes parámetros de rendimiento. También permite guardar y cargar partidas mediante estados de guardado, utilizar controles táctiles en pantalla y conectar mandos compatibles. PPSSPP no incluye juegos comerciales: el usuario debe obtener sus propios archivos de juego de forma legal.",
+  "caracteristicas": [
+    "Emulación de videojuegos de PlayStation Portable (PSP)",
+    "Gráficos mejorados y resolución interna configurable",
+    "Controles táctiles personalizables",
+    "Compatibilidad con mandos externos",
+    "Guardado y carga de partidas",
+    "Opciones para mejorar el rendimiento y la calidad visual",
+    "Compatible con teléfonos y tabletas Android",
+    "Proyecto gratuito y de código abierto"
+  ],
+  "requisitos": {
+    "sistema_operativo": "Android",
+    "requisitos_adicionales": "El rendimiento depende del procesador, la GPU, la memoria RAM y la compatibilidad del juego."
+  },
+  "precio": "Gratis",
+  "compras_integradas": false,
+  "juegos_incluidos": false,
+  "idioma": "Multilenguaje",
+  "sitio_oficial": "https://www.ppsspp.org/",
+  "descarga_android": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+  "etiquetas": [
+    "PPSSPP",
+    "PSP",
+    "Emulador",
+    "Android",
+    "Videojuegos",
+    "PlayStation Portable",
+    "Gaming"
+  ]
+}
