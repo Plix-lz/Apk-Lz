@@ -35,7 +35,7 @@
   "juegos_incluidos": false,
   "idioma": "Multilenguaje",
   "sitio_oficial": "https://www.ppsspp.org/",
-  "descarga_android": "https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp",
+  "descarga_android": "https://github.com/Plix-lz/Apk-Lz/releases/download/Emulator/PPSSPP-v1.20.4.apk",
   "etiquetas": [
     "PPSSPP",
     "PSP",
